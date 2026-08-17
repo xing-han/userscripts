@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         hhanclub自动抽奖增强版（iOS Userscripts）
-// @version      1.5-ios.2
+// @version      1.5-ios.3
 // @description  适配 iPhone/iPad Safari Userscripts：自动抽奖、历史统计、触摸拖拽与串行请求
 // @author       Timi / iOS compatibility adaptation
-// @match        https://hhanclub.top/lucky.php*
+// @match        https://hhanclub.net/lucky.php*
 // @run-at       document-end
 // @inject-into  auto
 // @noframes
